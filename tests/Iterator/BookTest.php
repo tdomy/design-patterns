@@ -3,7 +3,7 @@
 namespace DesignPatternsTest\Iterator;
 
 use DesignPatterns\Iterator\Book;
-use PHPUnit\Framework\TestCase;
+use DesignPatternsTest\TestCase;
 
 class BookTest extends TestCase
 {

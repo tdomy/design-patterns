@@ -4,8 +4,8 @@ namespace DesignPatternsTest\Iterator;
 
 use DesignPatterns\Iterator\Book;
 use DesignPatterns\Iterator\BookShelf;
+use DesignPatternsTest\TestCase;
 use Mockery;
-use PHPUnit\Framework\TestCase;
 use ReflectionClass;
 
 class BookShelfTest extends TestCase
